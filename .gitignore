@@ -1,0 +1,17 @@
+# Ignore personal IDE settings
+.idea/
+
+# Ignore packaged files
+*.jar
+*.war
+
+# Ignore compiled source code
+*.pyc
+_pycache_/
+
+# Ignore log files
+*.log
+
+# Ignore temporary files
+*.tmp
+*.temp
